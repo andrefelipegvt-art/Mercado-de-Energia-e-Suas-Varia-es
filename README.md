@@ -74,6 +74,7 @@ Síntese do conhecimento
 Miniguia de estudo
         ↓
 Prompts reutilizáveis
+```
 ---
 ## 🔎 Curadoria de Fontes
 
