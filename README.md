@@ -75,7 +75,31 @@ Miniguia de estudo
         ↓
 Prompts reutilizáveis
 ---
+## 🔎 Curadoria de Fontes
 
+Foram selecionadas 5 fontes para compor o estudo no NotebookLM. A seleção buscou combinar fontes institucionais, materiais de mercado e conteúdos voltados à aplicação prática no Mercado Livre de Energia.
+
+| # | Título | Instituição / Autor | Link | Por que foi escolhida |
+|---|---|---|---|---|
+| 1 | Abertura das tarifas TE e TUSD | Enel Ceará | [Acessar fonte](https://www.enel.com.br/pt-ceara/Tarifas_Enel/tarifa-te-tusd.html) | Escolhida para compreender a composição tarifária e a diferenciação entre TE e TUSD na fatura. |
+| 2 | Radar Energia XP — Julho | XP Investimentos | [Acessar fonte](https://conteudos.xpi.com.br/acoes/relatorios/aneel-deve-decidir-futuro-da-caducidade-da-enel-sp-antes-das-eleicoes-veja-o-radar-energia-xp-julho/) | Selecionada para complementar o estudo com contexto de mercado e acontecimentos do setor elétrico. |
+| 3 | Auditoria técnica no mercado livre | Energia Auditada | [Acessar fonte](https://energiaauditada.com.br/auditoria-de-faturas-no-mercado-livre) | Escolhida pela abordagem prática da análise e auditoria de faturas no Mercado Livre. |
+| 4 | Casa dos Ventos | Casa dos Ventos | [Acessar fonte](https://casadosventos.com.br/) | Selecionada para compreender a perspectiva de um agente atuante no setor e suas soluções energéticas. |
+| 5 | Mercado livre de energia: guia do integrador para 2026 | Reonic | [Acessar fonte](https://reonic.com/pt-br/blog/mercado-livre-de-energia-guia-integrador/) | Escolhida por apresentar uma visão didática e aplicada sobre o funcionamento do Mercado Livre de Energia. |
+
+### Critério de seleção
+
+As fontes foram escolhidas pela complementaridade das perspectivas:
+
+- **Institucional:** Enel Ceará;
+- **Mercado e análise setorial:** XP Investimentos;
+- **Aplicação técnica:** Energia Auditada;
+- **Visão empresarial do setor:** Casa dos Ventos;
+- **Material didático e operacional:** Reonic.
+
+A curadoria permitiu comparar diferentes perspectivas sobre o mesmo tema e serviu de base para os prompts de aprofundamento e validação cruzada.
+
+---
 ## 🧪 4. Engenharia de Prompts
 
 A construção do conhecimento foi realizada por meio da evolução progressiva dos prompts, aumentando gradualmente o contexto, a especificidade e os critérios de validação.
